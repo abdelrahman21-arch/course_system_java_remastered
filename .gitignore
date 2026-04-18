@@ -3,3 +3,8 @@ target/
 .vscode/
 *.iml
 *.log
+.m2/
+.mvn-settings.xml
+target/
+src/main/resources/application.properties
+src/main/resources/application.properties
